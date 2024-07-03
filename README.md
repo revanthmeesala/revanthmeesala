@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm revanth meesala</h1>
 <h3 align="center">A Ethical Hacker who is curious to learn new data everyday.</h3>
