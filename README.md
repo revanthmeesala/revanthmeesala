@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm revanth meesala</h1>
 <h3 align="center">A Ethical Hacker who is curious to learn new data everyday.</h3>
 
@@ -6,8 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=revanthmeesala&label=Profile%20views&color=0e75b6&style=flat" alt="revanthmeesala" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=revanthmeesala" alt="revanthmeesala" /></a> </p>
-
-- 🔭 I’m currently working on 
 
 - 🌱 I’m currently learning **Btech Computer science (Cyber security).**
 
